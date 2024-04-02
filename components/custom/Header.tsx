@@ -21,7 +21,7 @@ export default function Header() {
       >
 
         <Link href="/">
-          <span className='text-3xl 2xs:text-4xl'>DJ</span>
+          <span className='text-4xl 2xs:text-5xl'>DJ</span>
         </Link>
         
         <div className='hover:cursor-pointer lg:hidden'>
